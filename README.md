@@ -1,3 +1,5 @@
-# Danika's Decorators
+# Data Engineering Bootcamp - Decorators
 
-Instructions for today's sprint can be found at: https://l2c.northcoders.com/courses/de2-fun/danikas-decorators
+## Overview
+
+This repository contains work completed as part of the Decorators Sprint during my Data Engineering Bootcamp. 
